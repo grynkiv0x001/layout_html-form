@@ -1,11 +1,11 @@
-fieldset > .form-field {
+.form-field {
   margin-bottom: 10px;
 }
 
-fieldset > .form-field:last-child {
+.form-field:last-child {
   margin-bottom: 0;
 }
 
-fieldset {
+.field-container {
   margin-bottom: 20px;
 }
